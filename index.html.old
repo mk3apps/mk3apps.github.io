@@ -17,15 +17,14 @@
 <body>
 <div class="container">
 
+<!--
   <div class="centered-pills">
     <ul class="nav nav-pills ">
       <li class="active"><a href="#">Home</a></li>
-      <!-- 
-        <li><a href="#">Portfolio</a></li>
-        -->
       <li><a href="#">Contact Us</a></li>
     </ul>
   </div>
+-->
 
   <div class="jumbotron">
     <img src="assets/img/logo1d.png"/>
@@ -33,7 +32,7 @@
   </div>
 
   <hr>
-
+<!--
   <div class="row-fluid marketing">
     <div class="span6">
       <div class="well">
@@ -69,6 +68,7 @@
       </div>
     </div>
   </div>
+!-->
   <div style="text-align: center;">
     <a class="btn btn-large btn-warning" href="#">Contact us</a>
   </div>
